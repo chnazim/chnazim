@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahamed Nazim CH
-- 👀 I’m interested in android application development,I have fivbe plus years of expierence in android application development
+- 👀 I’m interested in android application development,I have eight plus years of expierence in android application development
 - 🌱 I’m currently looking for opportunities as android application developer
 - 📫 Reach me at ahamednazimch@gmail.com
 
